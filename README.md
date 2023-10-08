@@ -45,11 +45,11 @@ To run the React Market application locally:
 
 ## Usage
 
--Responsive and user-friendly interface.
--Real-time product search functionality.
--Customizable filters for colors, price range, and categories.
--Company-specific product filtering.
--State management using Redux Toolkit for efficient data handling.
+- Responsive and user-friendly interface.
+- Real-time product search functionality.
+- Customizable filters for colors, price range, and categories.
+- Company-specific product filtering.
+- State management using Redux Toolkit for efficient data handling.
 
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute:
