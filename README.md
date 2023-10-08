@@ -54,10 +54,10 @@ To run the React Market application locally:
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute:
 
-1-Fork the repository on GitHub.
-2-Make your changes or additions to the code.
-3-Test your changes to ensure they work as expected.
-4-Submit a pull request with a clear description of your contribution.
+1- Fork the repository on GitHub.
+2- Make your changes or additions to the code.
+3- Test your changes to ensure they work as expected.
+4- Submit a pull request with a clear description of your contribution.
 
 
 ## Preview
