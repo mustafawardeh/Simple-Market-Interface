@@ -26,9 +26,6 @@ React Market is a full-featured e-commerce platform designed to provide users wi
 
 The application is built using Redux Toolkit, which simplifies state management, and React for a responsive user interface.
 
-## Demo
-
-You can try out a live demo of the React Market application [here](link_to_demo).
 
 ## Installation
 
@@ -37,7 +34,7 @@ To run the React Market application locally:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/react-market.git
+   git clone https://github.com/mustafawardeh/react-market.git
 2. Navigate to the project directory:
   cd react-market
 3. Install the required dependencies:
