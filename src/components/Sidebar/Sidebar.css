@@ -1,0 +1,41 @@
+.sidebar{
+    width: 200px;
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    align-items: center;
+    justify-content: start;
+    padding: 100px 0;
+
+    position: relative;
+
+}
+.centered_text{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    top: 80px;
+    left: 0;
+    border-right: solid 2px rgb(209, 201, 201);
+    border-top: solid 2px rgb(209, 201, 201);
+    padding: 30px;
+}
+.input_container{
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+}
+
+.radio_container{
+    padding: 0 10px;
+}
+.radio_selected{
+    margin-bottom: 80px;
+}
+label{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(65, 61, 61);
+}
+

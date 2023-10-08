@@ -1,0 +1,43 @@
+.navigation{
+    position: fixed;
+    width: 100%;
+    background: #f8f7f7;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    padding: 0 10%;
+    z-index: 999;
+}
+
+.search_box{
+    border: none;
+    font-size: 26px;
+    padding: 10px;
+    background: #8d8b8b71;
+    border-radius: 20px;
+}
+.navigation_icons a{
+    margin-left: 60px;
+    font-weight: 600;
+}
+.search_container{
+    position: relative;
+}
+.search_container .icon{
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+span{
+    cursor: pointer;
+}
+span i{
+    transition: 0.9s;
+}
+span i:hover{
+    color: rgb(240, 26, 26);
+}

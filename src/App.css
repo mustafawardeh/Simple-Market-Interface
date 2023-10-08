@@ -1,0 +1,26 @@
+.body{
+    overflow: hidden;
+    position: relative;
+}
+.main{
+    margin-top:40px ;
+    margin-left: 30px;
+
+
+}
+
+.side{
+    position: relative;
+    width: 200px;
+    z-index: 100;
+    background: transparent;
+}
+h1{
+    width: 100%;
+}
+
+.header{
+    position: relative;
+    height: 80px;
+    z-index: 999;
+}

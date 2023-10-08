@@ -1,0 +1,33 @@
+.buttons{
+    gap: 20px;
+}
+
+button{
+    position: relative;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    transition: 1s;
+    cursor: pointer;
+}
+button::after{
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgb(93, 100, 105,0.4);
+    z-index: 1;
+    transition: 0.3s;
+}
+button:hover::after{
+    width: 100%;
+}
+button{
+    border-radius: 28px;
+    overflow: hidden;
+}
+.active{
+    border: solid black 2px;
+}

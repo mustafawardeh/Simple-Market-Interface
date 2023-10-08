@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  min-height: 100vh;
+}
+
+.flex{
+  display: flex;
+}
+.flex_column
+{
+  display: flex;
+  flex-direction: column;
+}
+.flex_wrap{
+  flex-wrap: wrap;
+}
+.justify_center{
+  justify-content: center;
+}
+.justify_between{
+  justify-content: space-between;
+}
+.align_center {
+  align-items: center;
+}
+.text_center{
+  text-align: center;
+}
